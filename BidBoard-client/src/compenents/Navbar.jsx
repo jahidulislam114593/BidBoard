@@ -53,10 +53,10 @@ const Navbar = () => {
                 <Link to="/my-posted-jobs">My Posted Jobs</Link>
               </li>
               <li>
-                <div>My Bids</div>
+                <Link to="/my-bids">My Bids</Link>
               </li>
               <li>
-                <div>Bid Requests</div>
+                <Link to="/bids-request">Bid Requests</Link>
               </li>
               <li className="mt-2">
                 <button
